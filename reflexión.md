@@ -1,5 +1,5 @@
-reflexión.md
 
+# Reflexión Semana 1
 Aprendí que Git guarda el historial de cambios y GitHub publica el trabajo.
 Como en redes sociales, todo lo que subo queda registrado.
 Mi compromiso: revisar antes de hacer commit.
