@@ -1,1 +1,8 @@
+1. ¿Qué es Git?
+Git guarda el historial de cambios de mis archivos.
 
+2. ¿Qué es GitHub? 
+GitHub es donde subo y comparto mi código, como una red social para programadores.
+
+3. ¿Para qué sirve el commit?
+Para guardar una "foto" de cómo estaba mi proyecto en ese momento.
